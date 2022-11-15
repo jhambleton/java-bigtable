@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.17.0](https://github.com/googleapis/java-bigtable/compare/v2.16.0...v2.17.0) (2022-11-15)
+
+
+### Features
+
+* Add test proxy to java-bigtable client ([#1498](https://github.com/googleapis/java-bigtable/issues/1498)) ([132b4e4](https://github.com/googleapis/java-bigtable/commit/132b4e4fe340ca316de8eef2e2133b6dabd9dec3))
+* Next release from main branch is 2.17.0 ([#1514](https://github.com/googleapis/java-bigtable/issues/1514)) ([4fc6a93](https://github.com/googleapis/java-bigtable/commit/4fc6a93a25362df7bc107d48f94e1c00b6bd608d))
+
+
+### Dependencies
+
+* Update dependency kr.motd.maven:os-maven-plugin to v1.7.1 ([#1518](https://github.com/googleapis/java-bigtable/issues/1518)) ([8309681](https://github.com/googleapis/java-bigtable/commit/830968109a3754a12bd0bc92674fe42ae529b924))
+
 ## [2.16.0](https://github.com/googleapis/java-bigtable/compare/v2.15.1...v2.16.0) (2022-11-11)
 
 
